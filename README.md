@@ -1,5 +1,5 @@
-# Calculator
-Calculator in Python
+# Perfect Calculator
+Perfect Calculator in Python
 
 <br>
 -------------------------- Project Detils --------------------------<br>
